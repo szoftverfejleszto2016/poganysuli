@@ -12,3 +12,7 @@ header h1 {
 .sav {
     background-color: #00b7ff38;
 }
+
+footer img {
+    padding: 20px;
+}
