@@ -9,6 +9,10 @@ header {
 
 footer img {
     padding: 20px;
+    transition: all 0.2s;
+}
+footer img:hover {
+    transform: translate(0,-10px);
 }
 
 @media (min-width: 992px) {
